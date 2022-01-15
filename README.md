@@ -7,6 +7,7 @@ ejs
 express
 npm
 method-override
+ejs-mate : boilerplate for ejs
 CRUD
 
 For local
