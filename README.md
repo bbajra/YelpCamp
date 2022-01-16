@@ -20,3 +20,8 @@ nodemon app.js
 4. Setup get api
 5. Setup path for ejs files
 6. Setup Campground data to display on page
+
+- Frontend Validation
+- error handling
+- custom error class
+- joi schema validaiton and middleware
